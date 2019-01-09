@@ -8,8 +8,8 @@
      - Keychain Access (system app that appears in both operating systems)
      - ~~Time Machine (system app that appears in both operating systems)~~
      - Migration Assistant (system app that appears in both operating systems)
-     - Little Snitch (payware firewall for MacOSX): first export rules then migrate to the new one
-     - 
+     - Little Snitch (payware firewall for MacOSX): _first_ export rules _then_ migrate to the new one
+     - [AppCleaner](https://freemacsoft.net/appcleaner/) free uninstaller for the macosx environment
 * Online tools
      - iCloud
      - Dropbox
