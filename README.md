@@ -10,23 +10,21 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 ### What is this repository for? ###
 
 * Quick summary
-    - Migration of custom settings between differents MacOSX Operating systems
+    - Migration of custom settings between differents MacOSX Operating systems, specifically from `El Capitan` to `Mojave`
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - _In the making_
 * Configuration
-    - 
+    - _In the making_
 * Dependencies
-    - 
-* Database configuration
-    - 
+    - _In the making_
 * How to run tests
-    - 
+    - _In the making_
 * Deployment instructions
-    - 
+    - _In the making_
 
 ### Source ###
 
