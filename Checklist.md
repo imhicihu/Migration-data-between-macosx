@@ -19,3 +19,11 @@
 * Install backup software to migrate between operating systems or devices. 
 * Create `.ISO` images for folders that is mandatory to maintain the framework of folders (ie. folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
 * Backup to a "healthy" external disk drives, pendrives, dvd or blu-ray discs
+
+
+
+## Backup
+
+* `~/Library/`
+* `~/Library/Preferences`
+* `Little Snitch rules (exported from the original mac)
