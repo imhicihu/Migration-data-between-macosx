@@ -8,6 +8,7 @@
      - Keychain Access (system app that appears in both operating systems)
      - ~~Time Machine (system app that appears in both operating systems)~~
      - Migration Assistant (system app that appears in both operating systems)
+     - [Carbon Copy Cloner](https://bombich.com/): image generator for the hard disk
      - Little Snitch (payware firewall for MacOSX): _first_ export rules _then_ migrate to the new one
      - [AppCleaner](https://freemacsoft.net/appcleaner/) free uninstaller for the macosx environment
      - [AppTrap](http://onnati.net/apptrap/): Cleaner of associated system preference files
