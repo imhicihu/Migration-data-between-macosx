@@ -16,7 +16,7 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 ### How do I get set up? ###
 
 * Summary of set up
-    - _In the making_
+    - _Vide_ `checklist.md` & `colophon.md`
 * Configuration
     - _In the making_
 * Dependencies
