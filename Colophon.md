@@ -10,6 +10,8 @@
      - Migration Assistant (system app that appears in both operating systems)
      - Little Snitch (payware firewall for MacOSX): _first_ export rules _then_ migrate to the new one
      - [AppCleaner](https://freemacsoft.net/appcleaner/) free uninstaller for the macosx environment
+     - [AppTrap](http://onnati.net/apptrap/): Cleaner of associated system preference files
+     
 * Online tools
      - iCloud
      - Dropbox
