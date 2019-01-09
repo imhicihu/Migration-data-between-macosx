@@ -5,15 +5,15 @@
      - 1 tb hard disk (formatted in NTFS format, to minimize incompatibilities between parties)
      
 * Software
-     - Keychain (internal app that appears in both operating systems)
-     - ~~Time Machine (internal app that appears in both operating systems)~~
-     - Migration Assistant (internal app that appears in both operating systems)
-     - Little Snitch rules
+     - Keychain Access (system app that appears in both operating systems)
+     - ~~Time Machine (system app that appears in both operating systems)~~
+     - Migration Assistant (system app that appears in both operating systems)
+     - Little Snitch (payware firewall for MacOSX): first export rules then migrate to the new one
      - 
 * Online tools
      - iCloud
-     - 
-     - 
+     - Dropbox
+     - [ifttt](https://ifttt.com/): automatic backup between webapps. A kind of swiss tool for rendering multiple connections between parties, in this case, a plethora of backups; redundant and multicopies. 
      - 
      
 * Documentation
