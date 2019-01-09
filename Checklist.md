@@ -24,14 +24,17 @@
 
 ## Backup
 
-#### Spotlight 
-    - Enable Spotlight on operating system
-    - System Preferences: -> Spotlight -> Search results -> Enable only `Applications`
+#### Spotlight
+
+* Enable Spotlight on operating system
+* Go to `System Preferences` -> `Spotlight` -> `Search results` -> Enable only `Applications`
 
 #### Operating system
+
 * `~/Library/`
 * `~/Library/Preferences`
 * `~/Library/Application Support`
 
 #### Software
+* Keychain Access (via Spotligh)
 * `Little Snitch rules (exported from the original mac)
