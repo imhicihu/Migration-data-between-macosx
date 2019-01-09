@@ -24,6 +24,14 @@
 
 ## Backup
 
+#### Spotlight 
+    - Enable Spotlight on operating system
+    - System Preferences: -> Spotlight -> Search results -> Enable only `Applications`
+
+#### Operating system
 * `~/Library/`
 * `~/Library/Preferences`
+* `~/Library/Application Support`
+
+#### Software
 * `Little Snitch rules (exported from the original mac)
