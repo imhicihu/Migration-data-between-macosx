@@ -6,6 +6,8 @@
      
 * Software
      - Keychain Access (system app that appears in both operating systems)
+     - Disk Utility (system app that appears in both operating systems)
+     ![disk.jpeg](https://bitbucket.org/repo/LoMoRKb/images/2257750922-disk.jpeg)
      - ~~Time Machine (system app that appears in both operating systems)~~
      - Migration Assistant (system app that appears in both operating systems)
      - [Carbon Copy Cloner](https://bombich.com/): image generator for the hard disk
@@ -16,9 +18,9 @@
      - [AppTrap](http://onnati.net/apptrap/): Cleaner of associated system preference files
      
 * Online tools
-     - iCloud
-     - Dropbox
-     - [ifttt](https://ifttt.com/): automatic backup between webapps. A kind of swiss tool for rendering multiple connections between parties, in this case, a plethora of backups; redundant and multicopies. 
+     - [iCloud](https://www.icloud.com/)
+     - [Dropbox](https://www.dropbox.com/)
+     - [ifttt](https://ifttt.com/): automatic backup between webapps. A kind of swiss-knife tool for rendering multiple connections between parties, in this case, a plethora of backups; redundant and multicopies. 
      - 
      
 * Documentation
