@@ -1,6 +1,5 @@
-(this comes from this file: [checklist.md](https://bitbucket.org/imhicihu/migration-data-checklist/src/83368208d724a49b6b23d71f90fb65f5070d78b3/Checklist.md?at=master) from another internal [repo](https://bitbucket.org/imhicihu/migration-data-checklist)).
-
 ## First stage
+* 
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * Verify (and fix) any erroneous computer's date & time
 * Verify status of internal battery
@@ -19,7 +18,7 @@
 * Install backup software to migrate between operating systems or devices. 
 * Create `.ISO` images for folders that is mandatory to maintain the framework of folders (ie. folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
 * Backup to a "healthy" external disk drives, pendrives, dvd or blu-ray discs
-
+* 
 
 
 ## Backup
@@ -37,4 +36,8 @@
 
 #### Software
 * Keychain Access (via Spotligh)
-* `Little Snitch rules (exported from the original mac)
+* `Little Snitch` rules (exported from the original mac)
+
+#### Online tools
+* [AppleID](https://appleid.apple.com/): (`user` and `password` required) > to backup Keychain data
+* [iCloud](https://www.icloud.com/): (`user` and `password` required) > to backup Keychain data
