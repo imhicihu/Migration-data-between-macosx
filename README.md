@@ -11,7 +11,7 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 ### What is this repository for? ###
 
 * Quick summary
-    - Migration of custom settings between differents MacOSX Operating systems, specifically from `El Capitan` to `Mojave`
+    - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to `Mojave`
 * Version 1.01
 
 ### How do I get set up? ###
@@ -19,8 +19,6 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 * Summary of set up
     - _Vide_ `checklist.md` & `colophon.md`
 * Configuration
-    - _In the making_
-* Dependencies
     - _In the making_
 * How to run tests
     - _In the making_
@@ -38,15 +36,6 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/commits/) section for the current status
-
-### Contribution guidelines ###
-
-* Writing tests
-    - 
-* Code review
-    - 
-* Other guidelines
-    - 
 
 ### Who do I talk to? ###
 
