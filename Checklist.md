@@ -1,8 +1,19 @@
 ## First stage
-* 
+
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * Verify (and fix) any erroneous computer's date & time
-* Verify status of internal battery
+* Verify `Energy Saver` inside `System Preferences`
+    - Go to `System Preferences` - `Energy Saver` - `Battery`
+    - Disable `Turn display off after`: `Never`
+    - Disable `Put hard disks to slep when possible`
+    - Disable `Enable Power nap while on battery power`
+    - Enable `Show battery status in menu bar`
+    - Go to `System Preferences` - `Energy Saver` - `Power Adapter`
+    - Disable `Prevent computer from sleeping automatically when the display is off`
+    - Disable `Turn display off after`: `Never`
+    - Disable `Put hard disks to slep when possible`
+    - Disable `Enable Power nap while on battery power` 
+* Verify status of internal battery. A must condition: fully charged
 * Verify if the computer is _under_ password. The same goes for _inner_ Windows session(s)
 * Turn off the access to internet: 
      - turn off wifi connection 
