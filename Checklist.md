@@ -4,6 +4,15 @@
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * In the Mojave macbook, verify that the account name you set up not be the same name as any of the accounts you're migrating of (_critical issue_)
 * Verify (and fix) any erroneous computer's date & time
+* Verify `Security & Privacy` inside `System Preferences`
+    - Go to `System Preferences` > `Security & Privacy` > `General`
+        - Disable `Require password` option
+    - Go to `System Preferences` > `Security & Privacy` > `FileVault`
+        - Disable `FileVault`
+    - Go to `System Preferences` > `Security & Privacy` > `Firewall`
+        - Disable `Firewall`
+    - Go to `System Preferences` > `Security & Privacy` > `Privacy` > `Analytics`
+        - Disable `Share Mac Analytics` & `Share with App Developers`
 * Verify `Energy Saver` inside `System Preferences`
     - Go to `System Preferences` > `Energy Saver` > `Battery`
         - Disable `Turn display off after`: `Never`
