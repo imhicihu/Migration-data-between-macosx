@@ -53,10 +53,12 @@
 * Update to the latest definitions of the antivirus resident on the (primary) computer
 * Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive
     - If there are _virus_: notify it!
-* Disble any File sharing option: during diagnostic, defrag or copy/move/backup of files between devices
+* Disable any File sharing option: during diagnostic, defrag or copy/move/backup of files between devices
 * Close all the software in memory or actually running during the procedure of copy/move/backup of files between devices
 * Enable Spotlight on both operating systems
     - Go to `System Preferences` -> `Spotlight` -> `Search results` -> Enable only `Applications`
+* Enable `Keychain Access` backup on `System Preferences`
+    - Go to `System Preferences` -> `iCloud` -> `Keychain` -> Enable it
 * Install backup software to migrate between operating systems or devices.
     - Install Carbon Copy Cloner
     - Install SuperDuper
