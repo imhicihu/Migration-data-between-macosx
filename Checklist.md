@@ -23,27 +23,40 @@
     - Choose your startup disk.
     - Click `Verify Disk Permissions` to check permissions.
     - Click `Repair Disk Permissions` to repair any inconsistent permissions.
+    - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.  
+* Verify the health of the external hard disk, then defrag it.
+    - Open Disk Utility (`Applications` > `Utilities`)
+    - Choose your startup disk.
+    - Click `Verify Disk Permissions` to check permissions.
+    - Click `Repair Disk Permissions` to repair any inconsistent permissions.
     - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.
-    
-* Verify the health of the external hard disk, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
-* Verify the health of the pen drive, then defrag it. Both actions can be done with [Defragler](https://www.ccleaner.com/defraggler)
+* Verify the health of the pen drive, then defrag it. 
+    - Open Disk Utility (`Applications` > `Utilities`)
+    - Choose your startup disk.
+    - Click `Verify Disk Permissions` to check permissions.
+    - Click `Repair Disk Permissions` to repair any inconsistent permissions.
+    - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.
 * Update to the latest definitions of the antivirus resident on the (primary) computer
 * Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive
     - If there are _virus_: notify it!
-* File sharing: `off` during diagnostic, defrag or copy/move of files between devices
-* Close all the software in memory or actually running during the procedure of copy/move files between devices
-* Install backup software to migrate between operating systems or devices. 
-* Create `.ISO` images for folders that is mandatory to maintain the framework of folders (ie. folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
-* Backup to a "healthy" external disk drives, pendrives, dvd or blu-ray discs
-* 
+* Disble any File sharing option: during diagnostic, defrag or copy/move/backup of files between devices
+* Close all the software in memory or actually running during the procedure of copy/move/backup of files between devices
+* Enable Spotlight on both operating systems
+    - Go to `System Preferences` -> `Spotlight` -> `Search results` -> Enable only `Applications`
+* Install backup software to migrate between operating systems or devices.
+    - Install Carbon Copy Cloner
+    - Install SuperDuper
+    - Choose the above software that fit most of your migration needs
+* Create `.ISO` images of folders that is mandatory to maintain the framework of folders (ie. folders nested inside another folders). In a nutsell, create full _mirror_ images of folders and files (even with _hidden_ attributes)
+    - `~/Library/`
+    - `~/Library/Preferences`
+    - `~/Library/Application Support`
+* To prevent the worst scenario as possible: backup to a "healthy" external hard disk drive or dvd or blu-ray discs
 
 
 ## Backup
 
-#### Spotlight
 
-* Enable Spotlight on operating system
-* Go to `System Preferences` -> `Spotlight` -> `Search results` -> Enable only `Applications`
 
 #### Operating system
 
