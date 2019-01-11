@@ -4,6 +4,9 @@
 * Attach every involved device in the procedure to a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply), to prevent power failure
 * In the Mojave macbook, verify that the account name you set up not be the same name as any of the accounts you're migrating of (_critical issue_)
 * Verify (and fix) any erroneous computer's date & time
+* Verify `Users & Groups` inside `System Preferences`
+    - Go to `System Preferences` > `Users & Groups` > `Login items`
+        - Remove any application to open automatically when you log in
 * Verify `Security & Privacy` inside `System Preferences`
     - Go to `System Preferences` > `Security & Privacy` > `General`
         - Disable `Require password` option
