@@ -11,17 +11,15 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 ### What is this repository for? ###
 
 * Quick summary
-    - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to `Mojave`
-* Version 1.01
+    - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to ~~`Mojave`~~ `High Sierra`
+* Version 1.02
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - _Vide_ `checklist.md` & `colophon.md`
+    - _Vide_ `colophon.md` on `source` tab (at the left of your current screen sight)
 * Configuration
-    - _In the making_
-* How to run tests
-    - _In the making_
+    - _Vide_ `checklist.md`
 * Deployment instructions
     - _In the making_
 
