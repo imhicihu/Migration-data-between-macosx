@@ -11,7 +11,7 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 ### What is this repository for? ###
 
 * Quick summary
-    - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to ~~`Mojave`~~ `High Sierra`
+    - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to ~~Mojave~~ `High Sierra`
 * Version 1.02
 
 ### How do I get set up? ###
