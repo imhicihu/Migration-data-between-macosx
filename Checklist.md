@@ -68,6 +68,7 @@
     - `~/Library/Preferences`
     - `~/Library/Application Support`
 * To prevent the worst scenario as possible: backup to a "healthy" external hard disk drive or dvd or blu-ray discs
+* Verify that iCloud account got -at least 500 MB of free space- to give room to Keychain rules _et alia_ (the more space, the better).
 
 
 ## Backup
