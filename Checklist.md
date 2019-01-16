@@ -63,6 +63,10 @@
     - Click `Repair Disk Permissions` to repair any inconsistent permissions.
     - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.
 
+#### Online accounts 
+* [AppleID](https://appleid.apple.com/): (`user` and `password` required) > login to set `user` and `password` settings in the Keychain Access app.
+* [iCloud](https://www.icloud.com/): (`user` and `password` required) > login to set `user` and `password` settings in the Keychain Access app.
+
 #### Antivirus
 * Update to the latest definitions of the antivirus resident on the (primary) computer
 * Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive
@@ -83,6 +87,8 @@
 * To prevent the worst scenario as possible: backup to a "healthy" external hard disk drive or dvd or blu-ray discs
 * Verify that iCloud account got -at least 500 MB of free space- to give room to Keychain rules _et alia_ (the more space, the better).
 
-#### Online tools
-* [AppleID](https://appleid.apple.com/): (`user` and `password` required) > to backup Keychain data
-* [iCloud](https://www.icloud.com/): (`user` and `password` required) > to backup Keychain data
+#### Mail accounts
+* Create `.ISO` images of folder `Mail` from here: include nested folders (if apply)
+    - `Macintosh HD` > `Users` > `_number of user_` > `Library` > `Mail`
+* Locate and backup this file `com.apple.mail.plist` from here:
+    - `Macintosh HD` > `Users` > `_number of user_` > `Library` > `Preferences`
