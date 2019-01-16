@@ -90,5 +90,5 @@
 #### Mail accounts
 * Create `.ISO` images of folder `Mail` from here: include nested folders (if apply)
     - `Macintosh HD` > `Users` > `_number of user_` > `Library` > `Mail`
-* Locate and backup this file `com.apple.mail.plist` from here:
+* Locate and backup this file `com.apple.mail.plist` & `MessageRules.plist` from here:
     - `Macintosh HD` > `Users` > `_number of user_` > `Library` > `Preferences`
