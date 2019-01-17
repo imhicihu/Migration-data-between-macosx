@@ -9,6 +9,8 @@
 * In the ~~Mojave~~ High Sierra macbook, verify that the account name you set up not be the same name as any of the accounts you're migrating of (_critical issue_)
 * Verify (and fix) any erroneous computer's date & time. Update or correct with the current `time zone`
 * Verify the Trash is empty. If not, undelete all the files and copy to portable hard disk.
+* Verify iCloud space availability. _The more, the better._
+
 
 #### System Preferences
 * Verify `Users & Groups` inside `System Preferences`
@@ -34,14 +36,23 @@
         - Disable `Turn display off after`: `Never`
         - Disable `Put hard disks to slep when possible`
         - Disable `Enable Power nap while on battery power`
-* Enable `Keychain Access` backup on `System Preferences`
-    - Go to `System Preferences` -> `iCloud` -> `Keychain` -> Enable it
-
-* Verify if the computer is _under_ password. The same goes for _inner_ Windows session(s)
-* Disable any File sharing option: during diagnostic, defrag or copy/move/backup of files between devices
-* Turn off the access to internet: 
+* Verify (and enable) this settings in `iCloud` inside `System Preferences`. *Do this for every user of the primitive machine*.
+    - Go to `System Preferences` -> `iCloud` 
+        - Enable `iCloud Drive`
+            * Click on `Options`: 
+                - Enable `System Preferences`
+        - Enable `Contacts`
+        - Enable `Calendars`
+        - Enable `Notes`
+        - Enable `Reminders`
+        - Enable `Safari` (it will backup bookmarks and any historical record session from the current user)
+        - Enable `Keychain Access` (*a must condition*)
+        - Enable `Find my Mac` (for security issues)
+* Verify if the computer is _under_ password. The same goes for ~~_inner_~~ user session(s)
+* Disable any File sharing option: during diagnostic, ~~defrag~~ or ~~copy/move/~~backup of files between devices
+* Then, turn _off_ (disable) access to internet: 
      - turn `off` wifi connection 
-     - detach LAN access 
+     - detach any LAN access through wired connection
 
 #### Drives (internal & external)
 * Verify the health of the disk drive, then defrag it. 
@@ -64,8 +75,8 @@
     - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.
 
 #### Online accounts 
-* [AppleID](https://appleid.apple.com/): (`user` and `password` required) > login to set `user` and `password` settings in the Keychain Access app.
-* [iCloud](https://www.icloud.com/): (`user` and `password` required) > login to set `user` and `password` settings in the Keychain Access app.
+* [AppleID](https://appleid.apple.com/): (Know your `user` and `password`) > login to set `user` and `password` settings in the Keychain Access app.
+* [iCloud](https://www.icloud.com/): (Know your `user` and `password`) > login to set `user` and `password` settings in the Keychain Access app.
 
 #### Antivirus
 * Update to the latest definitions of the antivirus resident on the (primary) computer
