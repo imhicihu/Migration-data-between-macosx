@@ -55,35 +55,36 @@
      - detach any LAN access through wired connection
 
 #### Drives (internal & external)
-* Verify the health of the disk drive, then defrag it. 
+* Verify the health of the disk drive, ~~then defrag it.~~
     - Open Disk Utility (`Applications` > `Utilities`)
     - Choose your startup disk.
     - Click `Verify Disk Permissions` to check permissions.
     - Click `Repair Disk Permissions` to repair any inconsistent permissions.
     - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.  
-* Verify the health of the external hard disk, then defrag it.
+* Verify the health of the external hard disk, ~~then defrag it.~~
     - Open Disk Utility (`Applications` > `Utilities`)
-    - Choose your startup disk.
+    - Choose your external hard disk.
     - Click `Verify Disk Permissions` to check permissions.
     - Click `Repair Disk Permissions` to repair any inconsistent permissions.
     - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.
-* Verify the health of the pen drive, then defrag it. 
+    - _Advice:_ Obliterate your external hard disk.
+* Verify the health of the pen drive, ~~then defrag it.~~
     - Open Disk Utility (`Applications` > `Utilities`)
-    - Choose your startup disk.
+    - Choose your pen disk drive.
     - Click `Verify Disk Permissions` to check permissions.
     - Click `Repair Disk Permissions` to repair any inconsistent permissions.
-    - Defragmentation is not a serious issue in MacOSX operating systems. Even more, [no advisable](https://macpaw.com/how-to/how-to-defrag-mac) on macs with SSD hard drives.
+    - _Advice:_ Obliterate your pen drive.
 
 #### Online accounts 
 * [AppleID](https://appleid.apple.com/): (Know your `user` and `password`) > login to set `user` and `password` settings in the Keychain Access app.
 * [iCloud](https://www.icloud.com/): (Know your `user` and `password`) > login to set `user` and `password` settings in the Keychain Access app.
 
 #### Antivirus
-* Update to the latest definitions of the antivirus resident on the (primary) computer
-* Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive
+* Update to the latest definitions of the antivirus resident on the (source) computer
+* Do a full scan with the antivirus on the operating system, files, _etc_. The same goes for the hard disk or pen drive. 
     - If there are _virus_: notify it!
-* Close all the software in memory or actually running during the procedure of copy/move/backup of files between devices
-* Enable Spotlight on both operating systems
+* Close all the software in memory or actually running during the procedure of ~~copy/move/~~backup of files between devices
+* Enable `Spotlight` on both operating systems
     - Go to `System Preferences` -> `Spotlight` -> `Search results` -> Enable only `Applications`
 
 #### Backup
