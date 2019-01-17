@@ -36,18 +36,25 @@
         - Disable `Turn display off after`: `Never`
         - Disable `Put hard disks to slep when possible`
         - Disable `Enable Power nap while on battery power`
+* Verify `User & Groups` inside `System Preferences`
+    - Go to `System Preferences` > `User & Groups`
+        - On `Current User` click on `Password`
+                - Verify password for the current user
+                - Disable any parental control
+        - On `Current User` click on `Login Items`
+                - Disable any login item
 * Verify (and enable) this settings in `iCloud` inside `System Preferences`. *Do this for every user of the primitive machine*.
     - Go to `System Preferences` -> `iCloud` 
         - Enable `iCloud Drive`
             * Click on `Options`: 
                 - Enable `System Preferences`
-        - Enable `Contacts`
-        - Enable `Calendars`
-        - Enable `Notes`
-        - Enable `Reminders`
-        - Enable `Safari` (it will backup bookmarks and any historical record session from the current user)
-        - Enable `Keychain Access` (*a must condition*)
-        - Enable `Find my Mac` (for security issues)
+                - Enable `Contacts`
+                - Enable `Calendars`
+                - Enable `Notes`
+                - Enable `Reminders`
+                - Enable `Safari` (it will backup bookmarks and any historical record session from the current user)
+                - Enable `Keychain Access` (*a must condition*)
+                - Enable `Find my Mac` (for security issues)
 * Verify if the computer is _under_ password. The same goes for ~~_inner_~~ user session(s)
 * Disable any File sharing option: during diagnostic, ~~defrag~~ or ~~copy/move/~~backup of files between devices
 * Then, turn _off_ (disable) access to internet: 
