@@ -13,6 +13,7 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 * Quick summary
     - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to ~~Mojave~~ `High Sierra`
 * Version 1.02
+![osfmount-mainscreenshot.png](https://bitbucket.org/repo/LoMoRKb/images/753632059-osfmount-mainscreenshot.png)
 
 ### How do I get set up? ###
 
