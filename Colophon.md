@@ -17,18 +17,13 @@
      - Little Snitch (payware firewall for MacOSX): _first_ export rules _then_ migrate to the new one
      - [AppCleaner](https://freemacsoft.net/appcleaner/): free uninstaller for the macosx environment
      - [AppTrap](http://onnati.net/apptrap/): Cleaner of associated system preference files
+     - [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): Mount OSX `.ISO` images on Microsoft Windows environments.
+     ![osfmount-mainscreenshot.png](https://bitbucket.org/repo/LoMoRKb/images/753632059-osfmount-mainscreenshot.png)
      
 * Online tools
      - [iCloud](https://www.icloud.com/)
      - [Dropbox](https://www.dropbox.com/)
      - [ifttt](https://ifttt.com/): automatic backup between webapps. A kind of swiss-knife tool for rendering multiple connections between parties, in this case, a plethora of backups; redundant and multicopies. 
-     - 
-     
-* Documentation
-     - 
-     - 
-     - 
-     - 
      
 ## Legal ##
 
