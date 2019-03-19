@@ -22,6 +22,7 @@
           ![osfmount-mainscreenshot.png](https://bitbucket.org/repo/LoMoRKb/images/753632059-osfmount-mainscreenshot.png)
      * PC environment:
           - [Chocolatey](https://chocolatey.org/): software management automation (installing, uninstalling, updating from the command line)
+          - [Glazier](https://github.com/google/glazier/blob/master/doc/setup/about.md)
      
 * Online tools
      - [iCloud](https://www.icloud.com/)
