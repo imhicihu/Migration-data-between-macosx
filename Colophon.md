@@ -18,6 +18,7 @@
           - Little Snitch (payware firewall for MacOSX): _first_ export rules _then_ migrate to the new one
           - [AppCleaner](https://freemacsoft.net/appcleaner/): free uninstaller for the macosx environment
           - [AppTrap](http://onnati.net/apptrap/): Cleaner of associated system preference files
+          - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
           - [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): Mount OSX `.ISO` images on Microsoft Windows environments.
           ![osfmount-mainscreenshot.png](https://bitbucket.org/repo/LoMoRKb/images/753632059-osfmount-mainscreenshot.png)
      * PC environment:
