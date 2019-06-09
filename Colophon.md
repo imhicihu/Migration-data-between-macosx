@@ -3,6 +3,7 @@
 * Hardware
      - both Apple with stable operating systems: `El Capitan` from one side and `Mojave`
      - 1 tb hard disk (formatted in NTFS format, to minimize incompatibilities between parties)
+     - DVD writer (a blu-ray writer is preferred)
      
 * Software
      * Mac environment:
@@ -26,6 +27,8 @@
      * PC environment:
           - [Chocolatey](https://chocolatey.org/): software management automation (installing, uninstalling, updating from the command line)
           - [Glazier](https://github.com/google/glazier/blob/master/doc/setup/about.md)
+     * Recording
+          - [Disco](http://www.discoapp.com/): DVD writer
      
 * Online tools
      - [iCloud](https://www.icloud.com/)
