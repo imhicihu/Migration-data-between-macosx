@@ -10,7 +10,8 @@
 * Verify (and fix) any erroneous computer's date & time. Update or correct with the current `time zone`
 * Verify the Trash is empty. If not, undelete all the files and copy to portable hard disk.
 * Verify iCloud space availability. _The more, the better._
-
+* Verify if exist a [software protection](https://en.wikipedia.org/wiki/Software_protection_dongle) (_aka_ dongle). Take in count if it is USB or port based. _Hint_: take a photo of actual position to replicate the same environment in the future. 
+* Launch `iTunes`: Go to `Account` > `Authorizations` > `Deauthorize This Computer` 
 
 #### System Preferences
 * Enable `Spotlight` on both operating systems
