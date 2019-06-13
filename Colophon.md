@@ -27,6 +27,11 @@
      * PC environment:
           - [Chocolatey](https://chocolatey.org/): software management automation (installing, uninstalling, updating from the command line)
           - [Glazier](https://github.com/google/glazier/blob/master/doc/setup/about.md)
+                - ISO image
+                    + [WinISO Maker](http://www.winiso.com/products/winiso-free.html): `.iso` image file maker
+                    + [ISO Recorder](http://isorecorder.alexfeinman.com/#/): `.iso` image file maker
+                    + [Free ISO Creator](http://www.minidvdsoft.com/isocreator/index.html): `.iso` image file maker
+     
      * Recording
           - [Disco](http://www.discoapp.com/): DVD writer
      
