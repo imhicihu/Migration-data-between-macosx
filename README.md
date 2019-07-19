@@ -1,5 +1,5 @@
-![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![stability-workinprogress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
 
 # RATIONALE #
 
@@ -49,4 +49,4 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 
 ### License ###
 
-* The content of this project itself is licensed under the MIT Licence 
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
