@@ -23,6 +23,12 @@ Anyway, *one caveat*: "There is no responsability for data loss".
 * Deployment instructions
     - _In the making_
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Migration data (checklist)](https://bitbucket.org/imhicihu/migration-data-checklist/src/)
+     - [Focus Group (2016)](https://bitbucket.org/imhicihu/focus-group-2016/src/default/)
+
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src)
