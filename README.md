@@ -17,11 +17,11 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - _Vide_ `colophon.md` on `source` tab (at the left of your current screen sight)
+    - _Vide_ [`colophon.md`](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/Colophon.md) on `source` tab (at the left of your current screen sight)
 * Configuration
-    - _Vide_ `checklist.md`
+    - _Vide_ [`checklist.md`](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/Checklist.md)
 * Deployment instructions
-    - _In the making_
+    - _Vide_ [`checklist.md`](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/Checklist.md)
 
 ### Related repositories ###
 
