@@ -4,7 +4,7 @@
 # RATIONALE #
 
 * This repo is -mainly for internal use-, but it can be useful for those who need to migrate data in the most *resilient*, *efficient* way. 
-Anyway, *one caveat*: "There is no responsability for data loss".
+* This repository just hold our datums gathered, checklist _et alia_ and begin and end if fulfill our needs. Anyway, *one caveat*: "There is no responsability for data loss".
 * This repo is a living document that will grow and adapt over time.
 ![18ixteo19glnmpng.png](https://bitbucket.org/repo/LoMoRKb/images/2581579234-18ixteo19glnmpng.png)
 
