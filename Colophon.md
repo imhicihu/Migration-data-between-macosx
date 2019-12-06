@@ -25,6 +25,7 @@
           - [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): Mount OSX `.ISO` images on Microsoft Windows environments.
           ![osfmount-mainscreenshot.png](https://bitbucket.org/repo/LoMoRKb/images/753632059-osfmount-mainscreenshot.png)
      * PC environment:
+          - [SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155): synchronizes files and folders between locations.  Typical uses include sharing files, such as photos, with other computers and creating backup copies of files and folders. More info can be found [here](http://www.pchell.com/support/synctoy.shtml)
           - [Chocolatey](https://chocolatey.org/): software management automation (installing, uninstalling, updating from the command line)
           - [Glazier](https://github.com/google/glazier/blob/master/doc/setup/about.md)
                 - ISO image
