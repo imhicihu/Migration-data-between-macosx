@@ -12,30 +12,15 @@
 
 * Quick summary
     - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to ~~Mojave~~ `High Sierra`
-* Version 1.02
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - _Vide_ [`colophon.md`](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/Colophon.md) on `source` tab (at the left of your current screen sight)
+    - _Vide_ [`colophon.md`](Colophon.md) on `source` tab (at the left of your current screen sight)
 * Configuration
-    - _Vide_ [`checklist.md`](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/Checklist.md)
+    - _Vide_ [`checklist.md`](Checklist.md)
 * Deployment instructions
-    - _Vide_ [`checklist.md`](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/Checklist.md)
-
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [Migration data (checklist)](https://bitbucket.org/imhicihu/migration-data-checklist/src/)
-     - [Focus Group (2016)](https://bitbucket.org/imhicihu/focus-group-2016/src/default/)
-
-### Source ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src)
-
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/issues)
+    - _Vide_ [`checklist.md`](Checklist.md)
 
 ### Changelog ###
 
@@ -45,12 +30,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
