@@ -1,4 +1,4 @@
-## Procedures
+### Procedures
 
 #### Energy
 * Verify there is no power failures
