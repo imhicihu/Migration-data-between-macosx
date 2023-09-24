@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - both Apple with stable operating systems: `El Capitan` from one side and `Mojave`
