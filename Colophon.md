@@ -10,12 +10,12 @@
           - Keychain Access (system app that appears in both operating systems)
           - Disk Utility (system app that appears in both operating systems)
        <BR></BR>
-          ![disk.jpeg](https://bitbucket.org/repo/LoMoRKb/images/2257750922-disk.jpeg)
+          ![disk.jpeg](images/2257750922-disk.jpeg)
           - ~~Time Machine (system app that appears in both operating systems)~~
           - ~~Migration Assistant (system app that appears in both operating systems)~~
           - [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): drive backup generator
           - [Carbon Copy Cloner](https://bombich.com/): image generator for the hard disk
-          ![carbon.jpeg](https://bitbucket.org/repo/LoMoRKb/images/3719269200-carbon.jpeg)
+          ![carbon.jpeg](images/3719269200-carbon.jpeg)
           > Compatibilities between MacOSXs
           - Little Snitch (payware firewall for MacOSX): _first_ export rules _then_ migrate to the new one
           - [AppCleaner](https://freemacsoft.net/appcleaner/): free uninstaller for the macosx environment
@@ -23,10 +23,10 @@
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
           - ~~[RoaringApps](https://roaringapps.com/mac-app): analyze and shows you compatibility information for all of the apps installed on your mac~~
           <BR></BR>
-          ![7WszB0d.jpg](https://bitbucket.org/repo/LoMoRKb/images/2593405029-7WszB0d.jpg)
+          ![7WszB0d.jpg](images/2593405029-7WszB0d.jpg)
           - [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): Mount OSX `.ISO` images on Microsoft Windows environments.
           <BR></BR>
-          ![osfmount-mainscreenshot.png](https://bitbucket.org/repo/LoMoRKb/images/753632059-osfmount-mainscreenshot.png)
+          ![osfmount-mainscreenshot.png](images/753632059-osfmount-mainscreenshot.png)
      * PC environment:
           - [SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155): synchronizes files and folders between locations.  Typical uses include sharing files, such as photos, with other computers and creating backup copies of files and folders. More info can be found [here](http://www.pchell.com/support/synctoy.shtml)
           - [Chocolatey](https://chocolatey.org/): software management automation (installing, uninstalling, updating from the command line)
