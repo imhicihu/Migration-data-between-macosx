@@ -1,17 +1,18 @@
-![stability-workinprogress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![status-archived](images/3278295154-status_archived.png)
+![stability-workinprogress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
 
 # RATIONALE #
 
 * This repo is -mainly for internal use-, but it can be useful for those who need to migrate data in the most *resilient*, *efficient* way. 
 * This repository just hold our datums gathered, checklist _et alia_ and begin and end if fulfill our needs. Anyway, *one caveat*: "There is no responsability for data loss".
 * This repo is a living document that will grow and adapt over time.
-![18ixteo19glnmpng.png](https://bitbucket.org/repo/LoMoRKb/images/2581579234-18ixteo19glnmpng.png)
+![18ixteo19glnmpng.png](images/2581579234-18ixteo19glnmpng.png)
 
 ### What is this repository for? ###
 
 * Quick summary
-    - Migration of custom profiles and settings between differents MacOSX Operating systems, specifically from `El Capitan` to ~~Mojave~~ `High Sierra`
+    - Migration of custom profiles and settings between different MacOSX Operating systems, specifically from `El Capitan` to ~~Mojave~~ `High Sierra`
 
 ### How do I get set up? ###
 
@@ -41,4 +42,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
