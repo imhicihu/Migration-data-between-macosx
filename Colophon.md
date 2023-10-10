@@ -14,7 +14,7 @@
           - ~~Time Machine (system app that appears in both operating systems)~~
           - ~~Migration Assistant (system app that appears in both operating systems)~~
           - [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): drive backup generator
-          - [Mackup](https://github.com/lra/mackup): application settings in syncronization
+          - [Mackup](https://github.com/lra/mackup): application settings in syncronization between computers
           - [Carbon Copy Cloner](https://bombich.com/): image generator for the hard disk
           ![carbon.jpeg](images/3719269200-carbon.jpeg)
           > Compatibilities between MacOSXs
@@ -38,7 +38,7 @@
                     + [Free ISO Creator](http://www.minidvdsoft.com/isocreator/index.html): `.iso` image file maker
      
      * Recording
-          - [Disco](http://www.discoapp.com/): DVD writer
+          - ~~[Disco](http://www.discoapp.com/): DVD writer~~
      
 * Online tools
      - [iCloud](https://www.icloud.com/)
