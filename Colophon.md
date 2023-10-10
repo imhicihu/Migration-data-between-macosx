@@ -14,6 +14,7 @@
           - ~~Time Machine (system app that appears in both operating systems)~~
           - ~~Migration Assistant (system app that appears in both operating systems)~~
           - [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): drive backup generator
+          - [Mackup](https://github.com/lra/mackup): application settings in syncronization
           - [Carbon Copy Cloner](https://bombich.com/): image generator for the hard disk
           ![carbon.jpeg](images/3719269200-carbon.jpeg)
           > Compatibilities between MacOSXs
