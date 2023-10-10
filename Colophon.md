@@ -21,7 +21,7 @@
           - [AppCleaner](https://freemacsoft.net/appcleaner/): free uninstaller for the macosx environment
           - [AppTrap](http://onnati.net/apptrap/): Cleaner of associated system preference files
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
-          - [RoaringApps](https://roaringapps.com/mac-app): analyze and shows you compatibility information for all of the apps installed on your mac
+          - ~~[RoaringApps](https://roaringapps.com/mac-app): analyze and shows you compatibility information for all of the apps installed on your mac~~
           <BR></BR>
           ![7WszB0d.jpg](https://bitbucket.org/repo/LoMoRKb/images/2593405029-7WszB0d.jpg)
           - [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): Mount OSX `.ISO` images on Microsoft Windows environments.
