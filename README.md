@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/LUUbc1v4TX6OKB8BsssAYA.png?raw=true" alt="Logotipo de Migration-data-between-macosx"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de Migration-data-between-macosx"/>
 </p>
 
 ---
