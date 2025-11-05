@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/LUUbc1v4TX6OKB8BsssAYA.webp?raw=true" alt="Logotipo de imhicihu/Migration-data-between-macosx"/>
+</p>
+
+---
+
 ![status-archived](images/3278295154-status_archived.png)
 ![stability-workinprogress](images/477405737-stability_work_in_progress.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
